@@ -4,6 +4,8 @@ from tabulate import tabulate
 
 DOMAIN = "unizar.es"  # Universidad de Zaragoza
 
+TEX_FILE = "data/1_basic_dns.tex"
+
 dns = DNSClient()
 
 a_records = dns.get_a_record(DOMAIN)
@@ -29,5 +31,5 @@ table = [
 ]
 headers = ["domain", "address", "adns", "web", "mail"]
 
-with open("data/0_basic_dns.tex", "w", encoding="utf-8") as f:
+with open(TEX_FILE, "w", encoding="utf-8") as f:
     f.write(tabulate(table, headers=headers, tablefmt="latex"))
