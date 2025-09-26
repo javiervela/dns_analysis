@@ -1,0 +1,101 @@
+Domain,ADNS,Web,Mail
+abcollege.edu,[''],[''],[]
+acba.edu,"['ns2.bluehost.com', 'ns1.bluehost.com']",['ext-cust.squarespace.com'],"['alt2.aspmx.l.google.com', 'aspmx3.googlemail.com', 'aspmx.l.google.com']"
+achs.edu,"['ns-317.awsdns-39.com', 'ns-519.awsdns-00.net', 'ns-1105.awsdns-10.org', 'ns-1896.awsdns-45.co.uk']",['achs.edu'],"['alt2.aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx4.googlemail.com', 'aspmx5.googlemail.com', 'aspmx.l.google.com', 'alt1.aspmx.l.google.com']"
+aimtinc.com,"['ns1085.ui-dns.de', 'ns1055.ui-dns.biz', 'ns1080.ui-dns.com', 'ns1081.ui-dns.org']",['ext-cust.squarespace.com'],"['mx00.ionos.com', 'mx01.ionos.com']"
+alaskapacific.edu,"['dns2.easydns.net', 'dns1.easydns.com', 'dns3.easydns.org']",[''],['alaskapacific-edu.mail.protection.outlook.com']
+ambria.edu,"['ns-740.awsdns-28.net', 'ns-1515.awsdns-61.org', 'ns-1651.awsdns-14.co.uk', 'ns-278.awsdns-34.com']",[''],"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com']"
+avedainstituteprovo.com,"['ns74.domaincontrol.com', 'ns73.domaincontrol.com']",['avedainstituteprovo.com'],"['mailstore1.secureserver.net', 'smtp.secureserver.net']"
+baismedroshelyon.com,"['nikon.ns.cloudflare.com', 'kinsley.ns.cloudflare.com']",[''],"['mx20.mailspamprotection.com', 'mx30.mailspamprotection.com', 'mx10.mailspamprotection.com']"
+belrea.edu,"['ns05.domaincontrol.com', 'ns06.domaincontrol.com']",['belrea.edu'],['belrea-edu.mail.protection.outlook.com']
+bluehills.org,"['ns2.mediatemple.net', 'ns1.mediatemple.net']",[''],"['aspmx3.googlemail.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx2.googlemail.com']"
+bmdpark.com,"['ns13.domaincontrol.com', 'ns14.domaincontrol.com']",['bmdpark.com'],['bmdpark-com.mail.protection.outlook.com']
+boisebible.edu,"['ns1.dreamhost.com', 'ns3.dreamhost.com', 'ns2.dreamhost.com']",['s.multiscreensite.com'],['boisebible-edu.mail.protection.outlook.com']
+brittanyacademy.edu,"['piers.ns.cloudflare.com', 'martha.ns.cloudflare.com']",['brittanyacademy.edu'],['brittanyacademy-edu.mail.protection.outlook.com']
+bsc.edu,"['meera.ns.cloudflare.com', 'lex.ns.cloudflare.com']",[''],"['bsc-edu.mail.protection.outlook.com', 'bsc-edu.mail.eo.outlook.com']"
+byts.edu,"['becky.ns.cloudflare.com', 'ace.ns.cloudflare.com']",['gcdn0.wixdns.net'],"['aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com']"
+byuh.edu,"['extdns1.byuh.edu', 'extdns2.byuh.edu', 'edns3.byuh.edu']",['hawaii.prod.brigham-young.psdops.com'],['byuh-edu.mail.protection.outlook.com']
+ccac.edu,"['a14-67.akam.net', 'a18-64.akam.net', 'a13-64.akam.net', 'a16-64.akam.net', 'a3-64.akam.net', 'a1-164.akam.net']",['ccac.omniweb.cloud'],['ccac-edu.mail.protection.outlook.com']
+celebrity.edu,"['pdns1.registrar-servers.com', 'pdns2.registrar-servers.com']",[''],['celebrity-edu.mail.protection.outlook.com']
+centrahealth.com,"['ns2-37.azure-dns.net', 'ns3-37.azure-dns.org', 'ns4-37.azure-dns.info', 'ns1-37.azure-dns.com']",['centrahealth.edgekey.net'],"['mxa-009b1301.gslb.pphosted.com', 'mxb-009b1301.gslb.pphosted.com']"
+cheyney.edu,"['ns4-06.azure-dns.info', 'ns1-06.azure-dns.com', 'ns2-06.azure-dns.net', 'ns3-06.azure-dns.org']",['cheyney.edu'],"['cheyney-edu.mail.protection.outlook.com', 'excas.cheyney.edu']"
+cims.edu,"['ns42.domaincontrol.com', 'ns41.domaincontrol.com']",['cims.edu'],"['aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'alt1.aspmx.l.google.com']"
+clackamas.edu,"['ns1.dnsmadeeasy.com', 'ns0.dnsmadeeasy.com', 'ns3.dnsmadeeasy.com', 'ns2.dnsmadeeasy.com', 'ns4.dnsmadeeasy.com']",['sitefinity1.clackamas.edu'],['clackamas-edu.mail.protection.outlook.com']
+clarendoncollege.edu,"['mira.ns.cloudflare.com', 'norm.ns.cloudflare.com']",['clarendoncollege.omniweb.cloud'],"['us-smtp-inbound-1.mimecast.com', 'us-smtp-inbound-2.mimecast.com']"
+collegeofthedesert.edu,"['ns1.collegeofthedesert.edu', 'mando.dccd.cc.ca.us', 'ns2.collegeofthedesert.edu']",['collegeofthedesert.omniweb.cloud'],['collegeofthedesert-edu.mail.protection.outlook.com']
+conemaugh.org,"['ns01.gcd-dns.com', 'ns02.gcd-dns.com']",['lif-cpeye8aef4dpdhby.a03.azurefd.net'],"['us-smtp-inbound-2.mimecast.com', 'us-smtp-inbound-1.mimecast.com']"
+curry.edu,"['ns-2036.awsdns-62.co.uk', 'ns-476.awsdns-59.com', 'ns-801.awsdns-36.net', 'ns-1312.awsdns-36.org']",[''],"['garm.curry.edu', 'epsilon.curry.edu']"
+daymarcollege.edu,[''],[''],[]
+dcmoboces.com,"['ns1.stier.org', 'ns4.stier.org', 'ns3.stier.org', 'ns2.stier.org']",['cac9916-001.cms003.apptegy.net'],"['ALT1.ASPMX.L.GOOGLE.com', 'ASPMX.L.GOOGLE.com', 'ALT3.ASPMX.L.GOOGLE.com', 'ALT4.ASPMX.L.GOOGLE.com', 'ALT2.ASPMX.L.GOOGLE.com']"
+deltastate.edu,"['sun1.its.state.ms.us', 'ns1.deltastate.edu']",['dsuweb01.deltastate.edu'],"['dsumailca01.deltastate.edu', 'deltastate-edu.mail.protection.outlook.com']"
+eaglegatecollege.edu,"['art.ns.cloudflare.com', 'lara.ns.cloudflare.com']",[''],"['mx1-us1.ppe-hosted.com', 'mx2-us1.ppe-hosted.com']"
+emmasbeautyacademy.com,"['ns1086.ui-dns.org', 'ns1034.ui-dns.de', 'ns1078.ui-dns.com', 'ns1026.ui-dns.biz']",[''],"['mx00.ionos.com', 'mx01.ionos.com']"
+empire.edu,"['ns3.empire.edu', 'ns1.empire.edu', 'ns2.empire.edu']",['empire.edu'],"['us-smtp-inbound-2.mimecast.com', 'us-smtp-inbound-1.mimecast.com']"
+eticollege.edu,"['ns30.1and1.com', 'ns29.1and1.com']",[''],"['mx01.1and1.com', 'mx00.1and1.com']"
+flcc.edu,"['ns5.suny.edu', 'ns.suny.edu', 'ns3.suny.edu', 'ns2.suny.edu', 'ns4.suny.edu', 'ns6.suny.edu']",['dqmhcsmefbrxi.cloudfront.net'],['flcc-edu.mail.protection.outlook.com']
+gotobeautyschool.com,"['ns1.afternic.com', 'ns2.afternic.com']",[''],['']
+gotoccsi.org,"['ns27.domaincontrol.com', 'ns28.domaincontrol.com']",['gotoccsi.org'],"['aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com']"
+hairschoolomaha.com,"['ns01.squarespacedns.com', 'ns02.squarespacedns.com', 'ns03.squarespacedns.com', 'ns04.squarespacedns.com', 'dns1.p03.nsone.net', 'dns2.p03.nsone.net', 'dns3.p03.nsone.net', 'dns4.p03.nsone.net']",['ext-sq.squarespace.com'],['hairschoolomaha-com.mail.protection.outlook.com']
+hazard.kctcs.edu,[''],['hazard.kctcs.edu'],[]
+hcc.commnet.edu,"['ns2.cen.ct.gov', 'ns1.cen.ct.gov']",[''],['hcc-commnet-edu.mail.protection.outlook.com']
+hlg.edu,"['meramec.coreserv.more.net', 'chariton.coreserv.more.net', 'gasconade.coreserv.more.net', 'argus.more.net', 'osage.coreserv.more.net', 'current.coreserv.more.net']",[''],['hlg-edu.mail.protection.outlook.com']
+hptc.edu,"['dns.onenet.net', 'terra.osrhe.edu']",['ext-cust.squarespace.com'],"['d54781b.ess.barracudanetworks.com', 'd54781a.ess.barracudanetworks.com']"
+ict.edu,"['lamar.ns.cloudflare.com', 'emily.ns.cloudflare.com']",[''],"['d291013b.ess.barracudanetworks.com', 'd291013a.ess.barracudanetworks.com']"
+infinitycollege.edu,"['ns15.domaincontrol.com', 'ns16.domaincontrol.com']",['infinitycollege.edu'],['infinitycollege-edu.mail.eo.outlook.com']
+jacksonville-college.edu,"['ns4.esc7.net', 'ns3.esc7.net', 'ns5.esc7.net', 'ns1.esc7.net', 'ns0.esc7.net', 'ns2.esc7.net']",['jacksonvillecollege.edu'],"['alt2.aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx.l.google.com', 'alt1.aspmx.l.google.com']"
+johnson.edu,"['ns2.he.net', 'ns4.he.net', 'ns3.he.net', 'ns5.he.net', 'ns1.he.net']",[''],"['ussf51.upstreamsecurity.net', 'ussf50.upstreamsecurity.net']"
+kcu.edu,"['ns4.he.net', 'ns2.he.net', 'ns3.he.net', 'ns5.he.net', 'dns2.kcu.edu', 'ns1.he.net', 'dns1.kcu.edu']",['kcu.edu'],"['ASPMX2.GOOGLEMAIL.COM', 'ALT2.ASPMX.L.GOOGLE.COM', 'ASPMX3.GOOGLEMAIL.COM', 'ALT1.ASPMX.L.GOOGLE.COM', 'ASPMX.L.GOOGLE.COM']"
+kdstudio.com,"['ns90.worldnic.com', 'ns89.worldnic.com']",['kdstudio.com'],['ecbiz311.inmotionhosting.com']
+kokomobeautyschool.com,"['ns19.domaincontrol.com', 'ns20.domaincontrol.com']",['ext-sq.squarespace.com'],['kokomobeautyschool.com']
+lccc.wy.edu,"['ns4.wyo.gov', 'ns7.wyo.gov', 'ns8.wyo.gov', 'ns6.wyo.gov', 'ns3.wyo.gov', 'ns5.wyo.gov']",['lccc.wy.edu'],['lccc-wy-edu.mail.protection.outlook.com']
+lesley.edu,"['ns4-03.azure-dns.info', 'ns1-03.azure-dns.com', 'ns2-03.azure-dns.net', 'ns3-03.azure-dns.org']",[''],['lesley-edu.mail.protection.outlook.com']
+liaschorrinstitute.com,"['ns1.dns-parking.com', 'ns2.dns-parking.com']",['liaschorrinstitute.com'],"['mx2.titan.email', 'mx1.titan.email']"
+lsua.edu,"['ns4.lsua.edu', 'ns3.lsua.edu']",[''],['lsua-edu.mail.protection.outlook.com']
+maryville.edu,"['ns-566.awsdns-06.net', 'ns-99.awsdns-12.com', 'ns-1073.awsdns-06.org', 'ns-1659.awsdns-15.co.uk']",['live-maryville-edu.pantheonsite.io'],"['d134420b.ess.barracudanetworks.com', 'd134420a.ess.barracudanetworks.com']"
+massasoit.edu,"['a1-104.akam.net', 'a10-66.akam.net', 'a14-64.akam.net', 'a24-64.akam.net', 'a11-66.akam.net', 'a3-64.akam.net']",[''],"['alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com']"
+mayvillestate.edu,"['ns2.ext.ndus.edu', 'ns1.ndus.edu', 'ns4.az.ndus.edu', 'ns1.ext.ndus.edu', 'ns2.ndus.edu']",['mayvillestate.edu'],['mayvillestate-edu.mail.protection.outlook.com']
+mckendree.edu,"['anton.ns.cloudflare.com', 'malavika.ns.cloudflare.com']",[''],['mckendree-edu.mail.protection.outlook.com']
+mkgacademy.edu,[''],[''],[]
+modelcollegeofhairdesign.com,"['dns3.name-services.com', 'dns4.name-services.com', 'dns5.name-services.com', 'dns2.name-services.com', 'dns1.name-services.com']",[''],[]
+modernwelding.com,"['ns81.worldnic.com', 'ns82.worldnic.com']",[''],['modernwelding-com.mail.protection.outlook.com']
+msbbcs.edu,"['ns7.dnsmadeeasy.com', 'ns5.slable.com', 'ns5.dnsmadeeasy.com', 'ns6.dnsmadeeasy.com']",['msbbcs.edu'],"['msbbcs-edu.p10.mxthunder.com', 'msbbcs-edu.p40.mxthunder.net', 'msbbcs-edu.p20.mxthunder.net', 'msbbcs-edu.p30.mxthunder.net']"
+mttrainingcenter.org,"['ns1.vodadns.com', 'ns2.vodadns.com']",[''],['mttrainingcenter.org']
+nccc.edu,"['ns2172.dns.dyn.com', 'ns1135.dns.dyn.com', 'ns4176.dns.dyn.com', 'ns3166.dns.dyn.com']",[''],"['nccc-edu.mail.protection.outlook.com', 'mx2.mailhop.org', 'mail1.nccc.edu']"
+nptiflorida.edu,"['nile.ns.cloudflare.com', 'laura.ns.cloudflare.com']",['nptiflorida.edu'],"['_dc-mx.c2112fcc83ed.nptiflorida.edu', 'mxa.mailgun.org', 'mxb.mailgun.org']"
+nv.edu,"['ns2.cen.ct.gov', 'ns1.cen.ct.gov']",['nv.edu'],['nv-edu.mail.protection.outlook.com']
+ohiochristian.edu,"['clyde.ns.cloudflare.com', 'nadia.ns.cloudflare.com']",['ocuwww-endpoint-f4aadeapbaexfubn.z01.azurefd.net'],['ohiochristian-edu.mail.protection.outlook.com']
+owu.edu,"['ns2.oar.net', 'mizar9.owu.edu', 'ns1.oar.net', 'alcor9.owu.edu']",[''],"['aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'aspmx3.googlemail.com', 'aspmx2.googlemail.com']"
+pacificu.edu,"['b.ns.pacificu.edu', 'a.ns.pacificu.edu']",[''],"['alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt3.aspmx.l.google.com']"
+pillar.edu,"['destiny.ns.cloudflare.com', 'bowen.ns.cloudflare.com']",['proxy-ssl.webflow.com'],['pillar-edu.mail.protection.outlook.com']
+pmi.edu,"['dns1.easydns.com', 'dns3.easydns.org', 'dns2.easydns.net', 'dns4.easydns.info']",['wp.wpenginepowered.com'],"['mxrelay1.pmi.edu', 'mxrelay2.pmi.edu']"
+pupr.edu,"['ns3-37.azure-dns.org', 'ns4-37.azure-dns.info', 'ns1-37.azure-dns.com', 'ns2-37.azure-dns.net']",[''],['pupr-edu.mail.protection.outlook.com']
+rainyriver.edu,[''],[''],[]
+rctc.edu,"['ns2.roch.edu', 'ns1.roch.edu']",[''],['rctc-edu.mail.protection.outlook.com']
+sandiego.edu,"['ns-1509.awsdns-60.org', 'ns-1664.awsdns-16.co.uk', 'ns-39.awsdns-04.com', 'ns-872.awsdns-45.net']",[''],"['alt4.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com', 'alt3.aspmx.l.google.com']"
+sckans.edu,"['ns102.digicertdns.com', 'mound.sckans.edu', 'ns100.digicertdns.com', 'ns101.digicertdns.com', 'jinx.sckans.edu']",[''],['sckans-edu.mail.protection.outlook.com']
+sf.edu,"['ns2-04.azure-dns.net', 'ns3-04.azure-dns.org', 'ns4-04.azure-dns.info', 'ns1-04.azure-dns.com']",['jjv8fvdrumfc.wpeproxy.com'],['sf-edu.mail.protection.outlook.com']
+skinscienceinstitute.com,"['ns77.domaincontrol.com', 'ns78.domaincontrol.com']",[''],"['aspmx.l.google.com', 'aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com']"
+slchc.edu,"['ns2.dns-parking.com', 'ns1.dns-parking.com']",['slchc.edu'],['slchc-edu.mail.protection.outlook.com']
+smccme.edu,"['ns3-02.azure-dns.org', 'ns4-02.azure-dns.info', 'ns1-02.azure-dns.com', 'ns2-02.azure-dns.net']",[''],"['d345773a.ess.barracudanetworks.com', 'd345773b.ess.barracudanetworks.com']"
+spelman.edu,['carver.spelman.edu'],[''],['spelman-edu.mail.protection.outlook.com']
+sphp.com,"['ns1.trinity-health.org', 'ns2.trinity-health.org']",[''],"['mx1.hc2802-61.iphmx.com', 'mx2.hc2802-61.iphmx.com']"
+sscc.edu,"['ns2.oar.net', 'ns1.oar.net']",['sscc.edu'],['sscc-edu.mail.protection.outlook.com']
+strayer.edu,"['zod.ns.cloudflare.com', 'addilyn.ns.cloudflare.com']",[''],"['mxb-00353c01.gslb.pphosted.com', 'mxa-00353c01.gslb.pphosted.com']"
+swmich.edu,"['duke.ns.cloudflare.com', 'angela.ns.cloudflare.com']",['swmichedu-lb01-production.terminalfour.net'],"['alt3.aspmx.l.google.com', 'alt4.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx.l.google.com']"
+swosu.edu,"['ns3-34.azure-dns.org', 'ns4-34.azure-dns.info', 'ns1-34.azure-dns.com', 'ns2-34.azure-dns.net']",[''],['swosu-edu.mail.protection.outlook.com']
+sws.edu,"['ns2.digitalocean.com', 'ns3.digitalocean.com', 'ns1.digitalocean.com']",[''],"['alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com', 'aspmx2.googlemail.com', 'alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'aspmx5.googlemail.com', 'aspmx3.googlemail.com', 'alt3.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'aspmx4.googlemail.com', 'aspmx.l.google.com']"
+tooeletech.edu,"['dns4.p03.nsone.net', 'dns1.p03.nsone.net', 'dns2.p03.nsone.net', 'dns3.p03.nsone.net']",['tooeletech.edu'],"['mx-02-us-east-2.prod.hydra.sophos.com', 'mx-01-us-east-2.prod.hydra.sophos.com']"
+trevecca.edu,"['ns3-05.azure-dns.org', 'ns4-05.azure-dns.info', 'ns1-05.azure-dns.com', 'ns2-05.azure-dns.net']",['467321.group21.sites.hubspot.net'],['trevecca-edu.mail.protection.outlook.com']
+tricociuniversity.edu,"['reza.ns.cloudflare.com', 'mack.ns.cloudflare.com']",[''],"['aspmx2.googlemail.com', 'aspmx3.googlemail.com', 'aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com']"
+tufuturovale.com,[''],[''],[]
+ucr.edu,"['ns1.f5clouddns.com', 'ns2.f5clouddns.com']",[''],['mx.ucr.edu']
+ultimatetouchbarbercollege1.com,"['dns1.namecheaphosting.com', 'dns2.namecheaphosting.com']",['ultimatetouchbarbercollege1.com'],['mail.ultimatetouchbarbercollege1.com']
+und.edu,"['ns1.ndus.edu', 'ns2.ndus.edu', 'ns1.ext.ndus.edu', 'ns4.az.ndus.edu', 'ns2.ext.ndus.edu']",['und.edu'],['und-edu.mail.protection.outlook.com']
+usao.edu,"['dns.onenet.net', 'terra.osrhe.edu']",['usao.edu'],['usao-edu.mail.protection.outlook.com']
+vbc.edu,"['ns2.bluehost.com', 'ns1.bluehost.com']",['vbc.edu'],"['alt4.aspmx.l.google.com', 'aspmx.l.google.com', 'alt3.aspmx.l.google.com', 'alt1.aspmx.l.google.com', 'alt2.aspmx.l.google.com']"
+washingtonbarbercollege.edu,"['ns4.bdm.microsoftonline.com', 'ns1.bdm.microsoftonline.com', 'ns2.bdm.microsoftonline.com', 'ns3.bdm.microsoftonline.com']",['sites.ludicrous.cloud'],['washingtonbarbercollege-edu.mail.protection.outlook.com']
+winonah.net,"['ns1.winonah.net', 'ns2.winonah.net']",['winonah.net'],['winonah.net']
+wiregrass.edu,"['ns4-01.azure-dns.info', 'ns1-01.azure-dns.com', 'ns2-01.azure-dns.net', 'ns3-01.azure-dns.org']",[''],"['mx1.hc3764-76.iphmx.com', 'wiregrass-edu.mail.protection.outlook.com', 'mx2.hc3764-76.iphmx.com']"
+witcc.edu,"['pdns08.domaincontrol.com', 'pdns07.domaincontrol.com']",[''],"['ussf61.upstreamsecurity.net', 'ussf60.upstreamsecurity.net']"
+woodbury.edu,"['ns3-08.azure-dns.org', 'ns4-08.azure-dns.info', 'ns1-08.azure-dns.com', 'ns2-08.azure-dns.net']",['114fkcf4dh23.wpeproxy.com'],"['mxb-002ef601.gslb.pphosted.com', 'mxa-002ef601.gslb.pphosted.com']"
+www2.palomar.edu,[''],[''],[]
