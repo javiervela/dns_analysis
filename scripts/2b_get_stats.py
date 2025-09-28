@@ -25,11 +25,6 @@ df_filered = df[(df["ADNS_len"] > 0) & (df["Web_len"] > 0) & (df["Mail_len"] > 0
 
 
 def extract_server_domain(service_list, domain):
-    domains = [
-        s.split(".")[-2] + "." + s.split(".")[-1] if "." in s else s
-        for s in service_list
-    ]
-    # Get full domain names from server names
     server_domains = []
     for s in service_list:
         parts = s.split(".")
@@ -37,7 +32,7 @@ def extract_server_domain(service_list, domain):
             server_domains.append(parts[-2] + "." + parts[-1])
         else:
             server_domains.append(s)
-    # If domain itself is in server_domains, show it, else show first
+            
     if domain in server_domains:
         return [domain]
     elif server_domains:
