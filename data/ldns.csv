@@ -1,12 +1,12 @@
 IP,Hostname,A Record,Works,RTT
-64.233.217.2,try11-dns1.try.wideopenwest.com,142.250.190.46,True,42
-64.233.217.3,try11-dns2.try.wideopenwest.com,142.250.190.14,True,43
-64.233.207.16,dns1.wideopenwest.com,142.250.191.238,True,38
-64.233.207.2,dns2.wideopenwest.com,142.250.191.238,True,42
 71.10.216.1,rns01.charter.com,142.250.190.110,True,45
 71.10.216.2,rns02.charter.com,74.125.138.100,True,33
 209.18.47.61,dns-cac-lb-01.charter.com,142.250.191.238,True,65
 209.18.47.62,dns-cac-lb-02.charter.com,64.233.176.101,True,33
+64.233.217.2,try11-dns1.try.wideopenwest.com,142.250.190.46,True,42
+64.233.217.3,try11-dns2.try.wideopenwest.com,142.250.190.14,True,43
+64.233.207.16,dns1.wideopenwest.com,142.250.191.238,True,38
+64.233.207.2,dns2.wideopenwest.com,142.250.191.238,True,42
 212.230.255.1,ns2.xtratelecom.es,142.250.200.142,True,187
 212.230.255.129,ns1.xtratelecom.es,142.250.185.14,True,168
 84.236.142.130,,142.250.184.174,True,289

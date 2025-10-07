@@ -1,5 +1,4 @@
 import pandas as pd
-from time import sleep
 
 from dnsclient import DNSClient
 
