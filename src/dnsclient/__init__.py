@@ -20,7 +20,8 @@ class DNSClient:
                 text=True,
                 check=True,
             )
-            return result.stdout.strip().split("\n")
+            output = result.stdout.strip()
+            return output.split("\n") if output else []
         except subprocess.CalledProcessError as e:
             print(f"Error querying DNS: {e}")
             return []
@@ -40,7 +41,8 @@ class DNSClient:
                 text=True,
                 check=True,
             )
-            return result.stdout.strip().split("\n")
+            output = result.stdout.strip()
+            return output.split("\n") if output else []
         except subprocess.CalledProcessError as e:
             print(f"Error performing reverse lookup: {e}")
             return []
