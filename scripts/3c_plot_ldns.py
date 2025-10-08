@@ -23,11 +23,11 @@ heatmap_data = heatmap_data.reindex(index=ldns, columns=hostnames, fill_value=0)
 row_sums = heatmap_data.sum(axis=1)
 heatmap_percent = heatmap_data.div(row_sums, axis=0).fillna(0)
 
-plt.figure(figsize=(12, 8))
+plt.figure(figsize=(8, 6))
 sns.heatmap(heatmap_percent, annot=True, fmt=".2f", cmap="YlGnBu")
-plt.title("LDNS Hits Heatmap (Percentages)")
 plt.xlabel("Hostname")
 plt.ylabel("LDNS")
+plt.xticks(rotation=45, ha='right')
 plt.tight_layout()
 plt.savefig("data/ldns_hits_heatmap.png")
 
